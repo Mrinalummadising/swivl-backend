@@ -15,7 +15,19 @@ Start the server with "npm run dev" / "node app.js".
 
 -------------
 here are response of my API endpoints- 
-----------
+--------------
+
+![First response](https://github.com/Mrinalummadising/swivl-backend/blob/Dev/Screenshot%20(60).png)
+<hr/> 
+
+![Second Response](https://github.com/Mrinalummadising/swivl-backend/blob/Dev/Screenshot%20(61).png?raw=true)
+<hr/> 
+
+![Third Response](https://github.com/Mrinalummadising/swivl-backend/blob/Dev/Screenshot%20(62).png?raw=true)
+<hr/>
+
+![Fourth Response](https://github.com/Mrinalummadising/swivl-backend/blob/Dev/Screenshot%20(64).png?raw=true)
+<hr/>
 
 API Endpoints
 -------------
